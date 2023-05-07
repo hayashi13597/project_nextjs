@@ -1,6 +1,6 @@
 # Build and Deploy a Full Stack App Using the Official React Framework
 
-Learn build and deploy a Full Stack App using Nextjs from ![https://www.youtube.com/watch?v=wm5gMKuwSYk&t=6655s]JavaScript Mastery video on youtube
+Learn build and deploy a Full Stack App using Nextjs from [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 
 ## Introduction
 
